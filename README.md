@@ -1,5 +1,5 @@
-## ECS289L - Project3
-### Work Breakdown
+# ECS289L - Project3
+## Work Breakdown
 Dakai Kang: Select specific crop for study, screened 120/360 relevant features and prepared (cleaned, pre-processed) data for further ML-based models training pipeline
 
 Yifeng Shi: Select econmic and political conditions’ data as the additional feature, preparing (cleaned, pre-processed) data for further advanced ML-based models training pipeline
@@ -8,7 +8,7 @@ Zizhong Li: Choose the specific ML models, establish the ML pipeline, training a
 
 Zaoyi Zheng: Choose the specific ML models, establish the ML pipeline, training and evaluating models with additional advanced feature
 
-### File Description
+## File Description
 fetch_yield.py: fetch the yearly wheat yield in the counties of 5 states from 1993 to 2007.
 
 fetch_lon_lat.py: fetch the longitude and latitude of the counties.
